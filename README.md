@@ -1,2 +1,2 @@
 # lacolor
-Color chooser and convertor for Lacona
+Lacolor is a color chooser and convertor for Lacona
